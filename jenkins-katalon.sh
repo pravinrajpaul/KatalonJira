@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo apt install curl
 sudo apt-get install openjdk-11-jdk
 sudo apt-get install openjdk-11-jre
